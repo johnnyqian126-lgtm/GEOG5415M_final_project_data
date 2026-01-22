@@ -1,0 +1,59 @@
+﻿SITE_ID,ADDRESS,LOCALITY,SITE_TYPE,DIST_TO_KERB,HEIGHT,ANNUAL_MEAN_2015_BIAS_ADJUSTED,ANNUAL_MEAN_2016_BIAS_ADJUSTED,ANNUAL_MEAN_2017_BIAS_ADJUSTED,ANNUAL_MEAN_2018_BIAS_ADJUSTED,EASTING,NORTHING,LAT,LONG
+Durham 1,Dragon Lane traffic lights,Durham,Roadside,0.5,3,36.16,40.47,33.97,36.42,429658,543114,54.781959,-1.538813
+Durham 7,36 Highgate South,Durham,Roadside,6,3,32,33.79,32.29,31.84,427134,542690,54.778292,-1.57811
+Durham 8,10 Highgate North,Durham,Roadside,5,3,38.07,40.34,35.04,38.41,427119,542867,54.77988,-1.578316
+Durham 11,Crossgate Peth / Alexandria Tce Traffic Lights,Durham,Roadside,1,3,35.88,37.9,35.68,33.52,426839,542298,54.774781,-1.582727
+Durham 12,1 Colpitts Tce,Durham,Roadside,2,3,42.44,43.61,40.46,44.1,426768,542368,54.775414,-1.583824
+Durham 19,"Apex Corner, Hallgarth Street West, 1 Church Street",Durham,Roadside,1,3,46.61,45.05,43.77,41.21,427690,542078,54.772758,-1.56952
+Durham 20,80 Gilesgate,Durham,Roadside,5,3,37.96,41.43,37.03,37.52,428352,542727,54.778557,-1.55916
+Durham 23,5 Menceforth Cottages,CLS,Roadside,1.5,3,34.19,36.32,34.91,34.76,426895,551717,54.859426,-1.580975
+Durham 26,Lamp post opp 1 Blind Lane,CLS,Roadside,2,3,36.54,35.48,47.9,42.3,427411,552671,54.867973,-1.572851
+Durham 27,3 Blind Lane,CLS,Roadside,7,3,27.55,30.56,29.41,27.87,427454,552657,54.867845,-1.572182
+Durham 42,97 Claypath,Durham,Roadside,2,3,34.12,36.04,30.95,32.64,427476,542618,54.777619,-1.572793
+Durham 59,The Sands,Durham,Urban Background,2,3,17.1,16.53,16.26,16.55,427652,542991,54.780965,-1.570021
+Durham 70,The Peth Road,Durham,Roadside,1,3,43.99,45.74,41.91,45.84,426655,542102,54.773026,-1.585611
+Durham 79,Nevilles Cross Bank Eastbound,Durham,Roadside,1.5,3,45.9,51.63,48.28,48.14,426138,541934,54.771547,-1.593658
+Durham 81,"89 Claypath, Wild Brides",Durham,Roadside,2,3,31.07,33.13,29.87,31.56,427529,542647,54.777876,-1.571965
+Durham 101,Durham County Cricket Ground,CLS,Urban Background,1,3,10.86,12.96,11.04,13.11,428212,550438,54.847861,-1.560595
+Durham 106,"6 Belle Vue Terrace, Dragonsfield",Durham,Roadside,3,2,38.48,41.35,35.74,36.26,429672,543123,54.782036,-1.538591
+Durham 108,6 Blind Lane,CLS,Roadside,7,3,26.39,31.46,29.36,27.2,427477,552607,54.867397,-1.571825
+Durham 115,"Auton House, Upto Nevilles Cross",Durham,Roadside,5,2,35.03,37.49,33.94,32.22,426133,541939,54.771594,-1.593732
+Durham 116,3 Church Street,Durham,Roadside,1,2,47.44,46.06,49.9,44.2,427687,542071,54.772698,-1.569568
+Durham 117,33 Church Street,Durham,Roadside,1,2,44.39,43.51,47,40.12,427673,542066,54.772648,-1.569782
+Durham 118,Heaviside Lamp post,Durham,Urban Background,1.5,2,16.91,17.37,15.45,14.72,428423,542887,54.779987,-1.558043
+Durham 130,1 Sutton Street,Durham,Roadside,1.5,2,0,44.79,43.32,46.2,426808,542463,54.776264,-1.583193
+Durham 132,7 High Street South,Durham,Roadside,1.5,2,0,35.77,31.96,32.9,425353,540652,54.760065,-1.605979
+Durham 133,"Motor Cycle Shop, High Street North",Durham,Roadside,1.5,2,0,36.57,32.58,32.76,425325,540637,54.759933,-1.606404
+Durham 134,41 High Street North,Durham,Roadside,1.5,2,0,33.47,29.42,30.98,425220,540479,54.758517,-1.608055
+Durham 129,1 Menceforth Cottages,CLS,Roadside,1.5,2,34.09,36.27,34.73,35.28,426910,551708,54.85935,-1.58075
+Durham 137,8 Archery Rise,Durham,Roadside,3,2,0,0,36.53,37.42,426437,542028,54.772374,-1.588994
+Durham 136,52 Highgate,Durham,Roadside,5,2,0,0,33.88,31.33,427133,542768,54.778993,-1.578112
+Durham 142,29 Church Street lamp post,Durham,Roadside,1.5,2,0,0,36.55,35.42,427665,542043,54.77244,-1.569912
+Durham 141,28 Church Street,Durham,Roadside,1.5,2,0,0,31.64,31.87,427655,542024,54.772275,-1.570074
+Durham 140,9 Church Street,Durham,Roadside,1.5,2,0,0,38.13,37.5,427663,542015,54.772193,-1.569939
+Durham 139,5 Church Street,Durham,Roadside,1.5,2,0,0,37.55,36.29,427676,542053,54.772535,-1.569731
+Durham 145,Gilesgate Roundabout,Durham,Roadside,1.5,2,0,0,38.6,41.63,428180,542699,54.778312,-1.561839
+Durham 146,35/36 Sutton Street,Durham,Roadside,2,2,0,0,40.4,35.39,426796,542459,54.776234,-1.583377
+Durham 149,69 Gilesgate,Durham,Roadside,2,2,0,0,53.6,51.48,428281,542717,54.778463,-1.560275
+Durham 147,20 Sutton Street,Durham,Roadside,2,2,0,0,19,19.4,426799,542605,54.777544,-1.583313
+Durham 148,29 Sutton Street,Durham,Roadside,2,2,0,0,21.1,20.81,426788,542601,54.777511,-1.583489
+Durham 150,1/2 Durham Road,Bowburn,Roadside,2,2,0,0,31.1,31.59,430769,537679,54.733046,-1.522118
+Durham 151,6 Sutton Street,Durham,Roadside,2,2,0,0,34.6,39.04,426809,542489,54.776496,-1.583181
+Durham 152,24 Mitchell Street,Durham,Roadside,2,2,0,0,23.8,24.39,426902,542578,54.77729,-1.581722
+Durham 153,29/30 High Street,Durham,Roadside,2,2,0,0,0,31.54,425284,540545,54.759106,-1.607058
+Durham 154,Colpitts Hotel,Durham,Roadside,1.5,2,0,0,0,40.47,426772,542404,54.775738,-1.583758
+Durham 155,75/76 Gilesgate,Durham,Roadside,2,2,0,0,0,39.99,428323,542721,54.7785,-1.559608
+Durham 156,"Coop, Durham Road",Bowburn,Roadside,2,2,0,0,0,26.55,430783,537657,54.732848,-1.521897
+Chester-le-Street 157,The Bridge Hotel,CLS,Roadside,2,2,0,0,0,41.42,427478,551652,54.858815,-1.571899
+Seaham 158,41 Byron Terrace,Seaham,Roadside,4,2,0,0,0,32.09,440666,550188,54.844762,-1.366656
+Seaham 159,Seaton Lane / Byron Terrace,Seaham,Roadside,2,2,0,0,0,34.9,440682,550189,54.844766,-1.366409
+Seaham 161,Lamp post outside 29 Leechmere Crescent,Seaham,Roadside,2,2,0,0,0,31,440619,550182,54.844707,-1.367394
+Durham 162,62 Gilesgate,Durham,Roadside,1.5,2,0,0,0,0,428231,542714,54.778441,-1.561046
+Durham 163,91 Swinside,Durham,Roadside,8,2,0,0,0,0,430435,544274,54.792338,-1.526618
+Durham 164,1 Booths Bungalows,Durham,Roadside,1.5,2,0,0,0,0,429970,542323,54.774825,-1.534047
+Durham 165,4 North End,Durham,Roadside,7,2,0,0,0,0,426701,543323,54.784003,-1.584777
+Durham 166,Leazes Road Continuous Monitor,Durham,Roadside,1.5,1.5,0,0,0,0,427120,542681,54.778207,-1.578319
+Durham 167,Leazes Road Continuous Monitor,Durham,Roadside,1.5,1.5,0,0,0,0,427124,542680,54.778201,-1.578266
+Durham 168,Leazes Road Continuous Monitor,Durham,Roadside,1.5,1.5,0,0,0,0,427127,542680,54.778196,-1.578212
+Durham 169,Providence Row / Claypath Lights,Durham,Kerbside,0.5,1.5,0,0,0,0,427614,542692,54.778283,-1.570637
+Durham 170,"Victoria Inn, Hallgarth Street",Durham,Roadside,1.5,1.5,0,0,0,0,427738,541988,54.771949,-1.568782
